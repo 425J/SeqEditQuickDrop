@@ -58,6 +58,7 @@
 		<Item Name="Tree Up or Down Event.vi" Type="VI" URL="../Tree Up or Down Event.vi"/>
 		<Item Name="Check Control Key.vi" Type="VI" URL="../Check Control Key.vi"/>
 		<Item Name="Select First Tree Item.vi" Type="VI" URL="../Select First Tree Item.vi"/>
+		<Item Name="Set Title Icon.vi" Type="VI" URL="../Set Title Icon.vi"/>
 	</Item>
 	<Item Name="Quick Drop.vi" Type="VI" URL="../Quick Drop.vi"/>
 	<Item Name="Stop.vi" Type="VI" URL="../Stop.vi"/>
