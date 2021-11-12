@@ -85,7 +85,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{36359F7C-134B-4EDA-A6D1-33FFC5DFD03A}</Property>
-				<Property Name="Bld_version.build" Type="Int">14</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Seq Edit Quick Drop.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Installer/Resources/QuickDrop/Resources/NI_AB_PROJECTNAME.lvlibp</Property>
