@@ -11,7 +11,7 @@ A **Quick Drop** has been added to the TestStand 2019. It allows to add steps, v
 <i>TestStand Quick Drop Example</i>
 </p>
 
-Unfortunately, it does not allow you to run your own tools. The purpose of a **Custom Quick Drop** is to run the tool menu items using keyboard shortcuts. To run Custom Quick Drop press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>.
+Unfortunately, it does not allow you to run your own tools. The purpose of a **Custom Quick Drop** is to run the tool menu items using keyboard shortcuts. To run Custom Quick Drop press <kbd>Shift</kbd> + <kbd>Space</kbd>.
 
 <p align = "center">
 <img src = "https://github.com/425J/SeqEditQuickDrop/blob/main/Documentation/CustomQuickDrop.png?raw=true"></br>
@@ -31,4 +31,4 @@ To edit the tool:
 
 ## Installation
 
-:construction: TODO
+Run `.\Installer\Install.seq`. Select menu <kbd>View » Output</kbd> to see installation details. After successful installation, Quick Drop is automatically launch after login.
